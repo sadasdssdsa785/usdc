@@ -1,8 +1,0 @@
-
-=== Wallet Info (2025-05-19T21-17-31-399Z) ===
-Network: unichain
-Address: 0x23F967a5AAe5F002fBa27d9f07E8197E97A52da2
-Private Key: 14340d39fb3445b4fb120b07e42c2b4bdb3d3abc796a03853247b8f0c6d3e190
-Mnemonic: exit angry erode become unveil hobby cradle energy verify ivory emerge parade
-Balance: 10 USDC
-================================
